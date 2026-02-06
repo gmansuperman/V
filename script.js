@@ -117,7 +117,7 @@ function showMessage(response) {
 
     // Update the text content, display the message, and change the image to "dance.gif"
     const yesMessage = document.getElementById("question");
-    yesMessage.textContent = "I can't wait to see you and spend time you with you on our first date tomorrow!I love u!";
+    yesMessage.textContent = "I love u Rona...I can't wait to see you and spend time you with you on our first date tomorrow!";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
     document.getElementsByClassName("image")[0].src = "images/dance.gif";
